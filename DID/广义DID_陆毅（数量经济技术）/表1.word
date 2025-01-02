@@ -1,0 +1,50 @@
+	(1)
+VARIABLES	y1
+	
+did	0.904**
+	(0.388)
+lnrjgdp_a_t	-0.584
+	(0.434)
+lnrjgdp_a_t2	0.169*
+	(0.0967)
+lnrjgdp_a_t3	-0.0139**
+	(0.00673)
+czzjl_a_t	-1.614*
+	(0.834)
+czzjl_a_t2	0.405**
+	(0.179)
+czzjl_a_t3	-0.0316***
+	(0.0121)
+lnybyszc_a_t	0.266
+	(0.456)
+lnybyszc_a_t2	0.00413
+	(0.104)
+lnybyszc_a_t3	-0.00220
+	(0.00740)
+lnzfxjjzc_a_t	0.478*
+	(0.280)
+lnzfxjjzc_a_t2	-0.145**
+	(0.0643)
+lnzfxjjzc_a_t3	0.0109**
+	(0.00455)
+_Iyear_2015	0.674
+	(2.002)
+_Iyear_2016	-0.0430
+	(2.933)
+_Iyear_2017	-1.421
+	(3.209)
+_Iyear_2018	-2.692
+	(3.207)
+_Iyear_2019	-2.732
+	(3.166)
+_Iyear_2020	-0.739
+	(3.258)
+_Iyear_2021	5.504
+	(3.925)
+Constant	5.944*
+	(3.457)
+	
+Observations	10,114
+R-squared	0.686
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
